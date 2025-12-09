@@ -14,4 +14,10 @@ lesson:
      6. add the file in repo by git add
      7.commit the file as message by git commit -m"new file created "
      8.to push file on repo  to roots by git push orign main/roots
+PYTHON:
+     to create and store the inputs data from user and stored in data base using sqlite
+     use asyncio for multiple user at same time so, share proper resource
+     use hashlib file for prevernt the data from unauthorized acces 
+     which encryped with char,value
+
      
