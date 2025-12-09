@@ -14,7 +14,17 @@ lesson:
      6. add the file in repo by git add
      7.commit the file as message by git commit -m"new file created "
      8.to push file on repo  to roots by git push orign main/roots
-PYTHON:
+ DATABASE COMMANDS:
+          sql is a caseinsensetive so use camelcase,upper and lower case
+         which is basis of CRUD -Create,Use,Read,Delete
+               1..sqlite3 filename(history.db)
+               2..tables for showing tables
+               3..schema LOGS showing schemas
+               4.SELECT * FROM LOGS;
+               5.INSERT INTO LOGS (input_text, sha256_hash) VALUES ('hello', 'abcdef123456');
+               6.DELETE FROM LOGS;
+               7.DROP TABLE LOGS;
+ PYTHON:
      to create and store the inputs data from user and stored in data base using sqlite
      use asyncio for multiple user at same time so, share proper resource
      use hashlib file for prevernt the data from unauthorized acces 
