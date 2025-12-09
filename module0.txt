@@ -1,0 +1,17 @@
+Goal: Get your environment ready and learn the tools you’ll use.
+
+lesson:
+	1.	Install Python, VS Code, Git, SQLite, DB Browser for SQLite.
+	2.	Create virtualenvs, use pip, basic project layout.
+	3.	Intro to Git + GitHub (push/pull branches).
+
+  GITHUB:
+     1.to download github 
+     2.add/create  new repo
+     3.create new folder on window
+     4.connect github and floder by git commands
+     5.create a file on own folder 
+     6. add the file in repo by git add
+     7.commit the file as message by git commit -m"new file created "
+     8.to push file on repo  to roots by git push orign main/roots
+     
